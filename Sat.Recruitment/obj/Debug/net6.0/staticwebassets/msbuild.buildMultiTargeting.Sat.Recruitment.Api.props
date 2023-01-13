@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sat.Recruitment.Api.props" />
+</Project>

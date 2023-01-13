@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SDrawBQ0SK2h9jLB2kE10+rmtjju/K99LotKwrltcs1UYxUynEAeSZlLKZ2vmIY6+AXOxaXlB9Qh3gV5kTw16Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexd\\source\\repos\\Sat.Recruitment\\Sat.Recruitment.Models\\Sat.Recruitment.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexd\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
